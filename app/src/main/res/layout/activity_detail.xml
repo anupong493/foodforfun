@@ -51,6 +51,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:text="TextView"
+                android:textColor="#000000"
                 android:textSize="@dimen/h1" />
         </LinearLayout>
     </ScrollView>
